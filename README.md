@@ -1,2 +1,2 @@
 # iputils
-Utilities for IP manager
+Utilities for IP management
